@@ -1,0 +1,17 @@
+.jumbotron{
+   
+font-family: 'Dancing Script', cursive;
+font-size: 48px bold;
+background-color: indianred;
+
+}
+
+.container-fluid{
+    background-color: indianred;
+}
+
+.form-control{
+    width: 400px;
+    background-color: aquamarine;
+}
+
